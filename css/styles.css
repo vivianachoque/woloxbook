@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen {
+  border-radius: 10%;
+  width: 250px;
+}
+.medalla{
+  border-radius: 50%;
+  width:25px;
+  position:absolute;
+  top:10px;
+  left: 215px;
+}
+.contenedor{
+  display:inline-block;
+  position:relative;
+  margin:20px;
+}
